@@ -14,7 +14,7 @@ My Name Firmansyah Riza<br>Studying At Six Vocational School of Surakarta<br>Liv
 
 ## 🐍 Snake animation eating my GitHub contributions
 
-![snake gif](https://github.com/RizafiDev/output/github-snake.svg)
+![snake gif](https://rizafidev.github.io/RizafiDev/github-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
