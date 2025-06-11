@@ -12,6 +12,10 @@ My Name Firmansyah Riza<br>Studying At Six Vocational School of Surakarta<br>Liv
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RizafiDev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizafiDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 Snake animation eating my GitHub contributions
+
+![snake gif](https://github.com/RizafiDev/output/github-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
